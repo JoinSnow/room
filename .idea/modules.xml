@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/meetingRoom/meetingRoom.iml" filepath="$PROJECT_DIR$/meetingRoom/meetingRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meetingRoom/meetingRoom_dao/meetingRoom_dao.iml" filepath="$PROJECT_DIR$/meetingRoom/meetingRoom_dao/meetingRoom_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meetingRoom/meetingRoom_service/meetingRoom_service.iml" filepath="$PROJECT_DIR$/meetingRoom/meetingRoom_service/meetingRoom_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meetingRoom/meetingRoom_web/meetingRoom_web.iml" filepath="$PROJECT_DIR$/meetingRoom/meetingRoom_web/meetingRoom_web.iml" />
+    </modules>
+  </component>
+</project>

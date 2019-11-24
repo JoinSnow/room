@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="meetingRoom_dao" />
+        <module name="meetingRoom_service" />
+        <module name="meetingRoom_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="meetingRoom" target="1.8" />
+      <module name="meetingRoom_dao" target="1.8" />
+      <module name="meetingRoom_service" target="1.8" />
+      <module name="meetingRoom_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
